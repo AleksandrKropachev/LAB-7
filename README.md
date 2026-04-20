@@ -15,8 +15,8 @@
 В конце вычисляется их сумма и выводится результат.
 
 ### Тестирование
+<img width="48" height="24" alt="Снимок экрана 2026-04-20 213612" src="https://github.com/user-attachments/assets/dc0e7979-bd0c-4e4f-800a-ac57cff721f6" />
 
-Скриншоты результата работы программы 
 
 
 # Задание 2
@@ -36,7 +36,8 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="61" height="25" alt="Снимок экрана 2026-04-20 213616" src="https://github.com/user-attachments/assets/3551d07e-b6b6-46ef-b55b-f7ed18962176" />
+
 
 
 # Задание 3
@@ -56,7 +57,8 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="101" height="106" alt="image" src="https://github.com/user-attachments/assets/1864ff5c-d233-4cf2-97a9-0377463dce06" />
+
 
 
 # Задание 4
@@ -77,7 +79,8 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="279" height="39" alt="Снимок экрана 2026-04-20 214920" src="https://github.com/user-attachments/assets/a06c833d-7b15-4aba-a9dd-9ffd724bf0d5" />
+
 
 
 # Задание 5
@@ -99,7 +102,7 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="81" height="22" alt="Снимок экрана 2026-04-20 213620" src="https://github.com/user-attachments/assets/cd827029-8f8e-42a1-99a7-d0b484e2b491" />
 
 
 # Задание 6
@@ -140,7 +143,8 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="120" height="22" alt="Снимок экрана 2026-04-20 213626" src="https://github.com/user-attachments/assets/c9fe7e06-79d0-4627-a9d2-86a17d4670c9" />
+
 
 
 # Задание 8
@@ -166,7 +170,8 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="207" height="402" alt="Снимок экрана 2026-04-20 213714" src="https://github.com/user-attachments/assets/91215880-c7c4-465d-944b-e2f6df87b047" />
+
 
 
 # Задание 9
@@ -187,7 +192,7 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="189" height="26" alt="Снимок экрана 2026-04-20 213850" src="https://github.com/user-attachments/assets/f7f2a132-651d-46d1-b31f-3ebd2c7c53ca" />
 
 
 # Задание 10
@@ -229,7 +234,8 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="174" height="54" alt="Снимок экрана 2026-04-20 213854" src="https://github.com/user-attachments/assets/c09a7f0a-85ed-4965-9d2e-a9c0c5c9c481" />
+
 
 
 
