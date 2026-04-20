@@ -10,6 +10,11 @@ namespace LabWork7
         public static void ReverseList()
         {
             List<int> list = new List<int> { 1, 2, 3, 4 };
+    
+            Console.WriteLine("До:");
+            foreach (int x in list)
+                Console.Write(x + " ");
+            Console.WriteLine();
 
             int left = 0;
             int right = list.Count - 1;
@@ -20,10 +25,15 @@ namespace LabWork7
                 list[left] = list[right];
                 list[right] = temp;
 
-                left++;
-                right--;
+                слева++;
+                справа--;
             }
-        }
+
+            Console.WriteLine("После:");
+            foreach (int x in list)
+                Console.Write(x + " ");
+            Console.WriteLine();
+}
 
         // ---------- 7 ----------
         public static void LinkedListInsert()
